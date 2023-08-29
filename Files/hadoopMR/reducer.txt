@@ -1,0 +1,3 @@
+2023-05-26['retweeted', 'replied_to']
+2023-05-27['retweeted', 'replied_to']
+2023-05-30['replied_to', 'retweeted', 'quoted', 'Empty']
